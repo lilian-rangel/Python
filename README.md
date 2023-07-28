@@ -18,7 +18,7 @@
   <li>Manipulação de strings</li>
   <li>Modularização</li>
   <li>POO – Programação Orientada a Objetos</li>
-  <li>Algoritmos de busca e ordenação usando (busca binária, bubble sort, merge sort)</li>
+  <li>Algoritmos de busca e ordenação (busca binária, bubble sort, merge sort)</li>
   <li>Recursividade</li>
   <li>Testes automatizados - Pytest (parametrize)</li>
 </ul>
